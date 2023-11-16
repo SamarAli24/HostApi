@@ -1,0 +1,68 @@
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.deps.json
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.runtimeconfig.json
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.dll
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.pdb
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomData.dll
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomData.pdb
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.AssemblyReference.cache
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.AssemblyInfoInputs.cache
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.AssemblyInfo.cs
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.CoreCompileInputs.cache
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.CopyComplete
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.dll
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\refint\GroomRoomServices.dll
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.pdb
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.genruntimeconfig.cache
+D:\GroomRoom Backups_Releases\groomroomapi\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\ref\GroomRoomServices.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.deps.json
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.runtimeconfig.json
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.pdb
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomData.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\bin\Debug\net6.0\GroomRoomData.pdb
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.AssemblyReference.cache
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.AssemblyInfoInputs.cache
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.AssemblyInfo.cs
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.CoreCompileInputs.cache
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.CopyComplete
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\refint\GroomRoomServices.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.pdb
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.genruntimeconfig.cache
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\GroomRoomAPI_latest\GroomRoomAPI\GroomRoomServices\obj\Debug\net6.0\ref\GroomRoomServices.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.deps.json
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.runtimeconfig.json
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.pdb
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomData.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomData.pdb
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.AssemblyReference.cache
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.AssemblyInfoInputs.cache
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.AssemblyInfo.cs
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.CoreCompileInputs.cache
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.CopyComplete
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\refint\GroomRoomServices.dll
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.pdb
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.genruntimeconfig.cache
+D:\ReactJs_GroomRoom\GoomRoom_(11-04-2023)\New _Server\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\ref\GroomRoomServices.dll
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.deps.json
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.runtimeconfig.json
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.dll
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomServices.pdb
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomData.dll
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\bin\Debug\net6.0\GroomRoomData.pdb
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.csproj.CopyComplete
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.dll
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\refint\GroomRoomServices.dll
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.pdb
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\GroomRoomServices.genruntimeconfig.cache
+C:\Users\pc\Source\Repos\groomroom-api-munir\GroomRoomServices\obj\Debug\net6.0\ref\GroomRoomServices.dll
